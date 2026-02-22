@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Logs
+logs/
+*.log
+
+# SQLite database
+inventory.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+__MACOSX/
